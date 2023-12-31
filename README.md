@@ -11,9 +11,9 @@ __Main Objective:__ To convert the casual riders into annual members, which will
 __Key Business Task:__ Investigate main differences in the way annual members and casual riders use Cyclistic
 
 __Key Stakeholders:__  
-Lily Moreno: The director of marketing and my manager
-Cyclistic marketing analytics team.
-Cyclistic executive team
+Lily Moreno: The director of marketing and my manager  
+Cyclistic marketing analytics team  
+Cyclistic executive team  
 
 ### PREPARE
 
